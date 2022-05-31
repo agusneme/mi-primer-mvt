@@ -74,7 +74,7 @@ $ git clone https://github.com/martinezger/mi-primer-mvt.git
 Los siguinetes comandos son analogos en Mac/Linux/Windows:
 
 ```bash
-cd mi-primer-mvt
+cd Entrega1_NemePelleFassetta
 python manage.py migrate
 ```
 La consola mostrara las migraciones de la base de datos que se realizaron.
